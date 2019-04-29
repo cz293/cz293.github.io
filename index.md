@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Please feel free to drop me a line at tony@test.com
 ### News
-1. A new paper on ABM is published, see (https://segmentfault.com/a/1190000011203711) for more details
+1. A new paper on ABM is published, please [click here](https://segmentfault.com/a/1190000011203711) for more details
 
 
 ### Key Publications

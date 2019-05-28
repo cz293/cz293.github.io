@@ -5,11 +5,16 @@ I got my Bachelor and first Doctoral degrees in Transportation from the Beijing 
 My research tries to investigate complex dynamic urban systems, primarily using agent-based modelling and big data. This is involved in several urban sub-systems, including transportation, land use, environment, energy, economy and population systems. Some specific research topics are as follows: 
 
 •	Activity-based Travel Demand Modelling
+
 •	Integrated Land Use and Transport Model
-•	Smart Cities (e.g., Smart Mobility, Smart Home and Smart Grid) 
-•	Social Network Analysis and Modelling 
+
+•	Smart Cities (e.g., Smart Mobility, Smart Home and Smart Grid)
+
+•	Social Network Analysis and Modelling
+
 •	Adoption of Electric Vehicle and Autonomous Vehicle
-•	Domestic Energy Consumption 
+
+•	Domestic Energy Consumption
 
 For those researchers (e.g., PhD students and post-docs) who want to join my team, please feel free to contact me with your CV included. 
 

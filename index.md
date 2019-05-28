@@ -16,11 +16,11 @@ My research tries to investigate complex dynamic urban systems, primarily using 
 
 •	Domestic Energy Consumption
 
-For those researchers (e.g., PhD students and post-docs) who want to join my team, please feel free to contact me with your CV included. 
+For those researchers (e.g., PhD students and post-docs) who want to join my team, please feel free to contact me (chengxiang.zhuge@polyu.edu.hk) with your CV included. 
 
 
 ### Recent Projects
-PI: Developing Public Charging Infrastructure for Electric Vehicles: A Data-Driven and Activity-based Approach. Funded by The Hong Kong Polytechnic University. Period: 2019-2022
+Developing Public Charging Infrastructure for Electric Vehicles: A Data-Driven and Activity-based Approach. Funded by The Hong Kong Polytechnic University. Period: 2019-2022. Role: PI
 
 
 ### Key Publications

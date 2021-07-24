@@ -1,11 +1,18 @@
 ### About Me
 I am an Assistant Professor in the Department of Land Surveying and Geo-Informatics (LSGI), The Hong Kong Polytechnic University (PolyU). Prior to joining PolyU, I was a Senior Research Associate at the University of East Anglia (United Kingdom).
+
 My research tries to explore complex dynamic urban systems through big data analysis and agent-based modelling. This involves several urban sub-systems, including transportation, land use, environment, energy, economy and population systems. Recently, I am particularly interested in the diffusion and impacts of emerging transportation technologies (e.g., shared autonomous electric vehicles). Specific research topics include: 
+
 •	Smart Mobility (e.g., E-Mobility, Autonomous Mobility and Shared Mobility) 
+
 •	Spatial Big Data Analysis and Modelling
+
 •	Activity-based Travel Demand Modelling
+
 •	Land Use and Transport Integrated Modelling
+
 •	Large-Scale Urban Micro-simulation 
+
 For those researchers (e.g., PhD students and post-docs) who want to join my team, please feel free to contact me (chengxiang.zhuge@polyu.edu.hk) with your CV included. 
 
 

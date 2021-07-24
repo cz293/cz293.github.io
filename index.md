@@ -11,7 +11,9 @@ For those researchers (e.g., PhD students and post-docs) who want to join my tea
 
 ### Education
 •	Second PhD in Geography, University of Cambridge, United Kingdom
+
 •	First PhD in Transportation, Beijing Jiaotong University, China
+
 •	Bachelor in Transportation, Beijing Jiaotong University, China
 
 

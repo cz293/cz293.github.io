@@ -33,7 +33,7 @@ For those researchers (e.g., PhD students and post-docs) who want to join my tea
 
 
 ### Key Publications
-1.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Exploring the Potential of Rental Electric Vehicles for Vehicle-to-Grid: A Data-Driven Approach. Resources, Conservation and Recycling, 2021, 175: 105841.
+1.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Exploring the Potential of Rental Electric Vehicles for Vehicle-to-Grid: A Data-Driven Approach. _Resources, Conservation and Recycling_, 2021, 175: 105841.
 2.	**Chengxiang Zhuge**, Chunjiao Dong, Binru Wei, Chunfu Shao. Exploring the Role of Technology Innovations in the Diffusion of Electric Vehicle with an Agent-based Spatial Integrated Model. Resources, Conservation & Recycling. 2021, 174: 105806.
 3.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Uncovering Travel and Charging Patterns of Private Electric Vehicles with Trajectory Data: Evidence and Policy Implications. Transportation. 2021: 1-31.
 4.	Xiong Yang, Chunfu Shao, **Chengxiang Zhuge***, Mingdong Sun, Pinxi Wang, Shiqi Wang. Deploying Battery Swap Stations for Shared Electric Vehicles Using Trajectory Data. Transportation Research Part D: Transport and Environment. 2021, 97(2):102943. 

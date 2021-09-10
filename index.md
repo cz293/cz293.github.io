@@ -34,19 +34,20 @@ For those researchers (e.g., PhD students and post-docs) who want to join my tea
 
 ### Key Publications
 1.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Exploring the Potential of Rental Electric Vehicles for Vehicle-to-Grid: A Data-Driven Approach. _Resources, Conservation and Recycling_, 2021, 175: 105841.
-2.	**Chengxiang Zhuge**, Chunjiao Dong, Binru Wei, Chunfu Shao. Exploring the Role of Technology Innovations in the Diffusion of Electric Vehicle with an Agent-based Spatial Integrated Model. Resources, Conservation & Recycling. 2021, 174: 105806.
-3.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Uncovering Travel and Charging Patterns of Private Electric Vehicles with Trajectory Data: Evidence and Policy Implications. Transportation. 2021: 1-31.
-4.	Xiong Yang, Chunfu Shao, **Chengxiang Zhuge***, Mingdong Sun, Pinxi Wang, Shiqi Wang. Deploying Battery Swap Stations for Shared Electric Vehicles Using Trajectory Data. Transportation Research Part D: Transport and Environment. 2021, 97(2):102943. 
-5.	**Chengxiang Zhuge**, Chunyan Wang. Integrated Modelling of Autonomous Electric Vehicle Diffusion: From Review to Conceptual Design. Transportation Research Part D: Transport and Environment. 2021, 91: 102679.
-6.	**Chengxiang Zhuge**, Mike Bithell, Chunfu Shao, Xia Li, Jian Gao. An Improvement in MATSim Computing Time for Large-Scale Travel Behaviour Microsimulation. Transportation. 2021, 48:193–214.
-7.	**Chengxiang Zhuge**, Binru Wei, Chunfu Shao, Yuli Shan, Chunjiao Dong. The Role of the License Plate Lottery Policy in the Adoption of Electric Vehicles: A Case Study of Beijing. Energy Policy. 2020, 139: 111328.
-8.	**Chengxiang Zhuge**, Min Yu, Chunyan Wang, Yilan Cui, Yi Liu. An Agent-based Spatiotemporal Integrated Approach to Simulating In-Home Water and Related Energy Use Behaviour: A Test Case of Beijing, China. Science of The Total Environment. 2020, 708: 135086. 
-9.	**Chengxiang Zhuge**, Chunfu Shao. Investigating the Factors Influencing the Uptake of Electric Vehicles in Beijing, China: Statistical and Spatial Perspectives. Journal of Cleaner Production. 2019, 213: 199-216. 
-10.	**Chengxiang Zhuge**, Binru Wei, Chunjiao Dong, Chunfu Shao, Yuli Shan. Exploring the Future Electric Vehicle Market and its Impacts with an Agent-based Spatial Integrated Framework: A Case Study of Beijing, China. Journal of Cleaner Production. 2019, 221: 710-737. 
-11.	**Chengxiang Zhuge**, Chunfu Shao. Agent-based Modelling of Office Market for a Land Use and Transport Model. Transportmetrica B: Transport Dynamics. 2019, 7(1): 1232-1257. 
-12.	**Chengxiang Zhuge**, Chunfu Shao. Agent-based Modelling of Locating Public Transport Facilities for Conventional and Electric Vehicles. Networks and Spatial Economics. 2018, 18(4): 875-908. 
-13.	**Chengxiang Zhuge**, Chunfu Shao, Shuling Wang, Ying Hu. An Agent- and GIS-based Virtual City Creator: A Case Study of Beijing, China. Journal of Transport and Land Use. 2018, 11(1): 1231-1256. 
-14.	**Chengxiang Zhuge**, Chunfu Shao, Jian Gao, Chunjiao Dong, Hui Zhang. Agent-Based Joint Model of Residential Location Choice and Real Estate Price for Land Use and Transport Model. Computers, Environment and Urban Systems, 2016, 57: 93-105. 
+2.	**Chengxiang Zhuge**, Chunjiao Dong, Binru Wei, Chunfu Shao. Exploring the Role of Technology Innovations in the Diffusion of Electric Vehicle with an Agent-based Spatial Integrated Model. _Resources, Conservation & Recycling_. 2021, 174: 105806.
+3.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Uncovering Travel and Charging Patterns of Private Electric Vehicles with Trajectory Data: Evidence and Policy Implications. _Transportation_. 2021: 1-31.
+4.	Xiong Yang, Chunfu Shao, **Chengxiang Zhuge***, Mingdong Sun, Pinxi Wang, Shiqi Wang. Deploying Battery Swap Stations for Shared Electric Vehicles Using Trajectory Data. _Transportation Research Part D: Transport and Environment_. 2021, 97(2):102943. 
+5.	**Chengxiang Zhuge**, Chunyan Wang. Integrated Modelling of Autonomous Electric Vehicle Diffusion: From Review to Conceptual Design. _Transportation Research Part D: Transport and Environment_. 2021, 91: 102679.
+6.	**Chengxiang Zhuge**, Mike Bithell, Chunfu Shao, Xia Li, Jian Gao. An Improvement in MATSim Computing Time for Large-Scale Travel Behaviour Microsimulation. _Transportation_. 2021, 48:193–214.
+7.	**Chengxiang Zhuge**, Binru Wei, Chunfu Shao, Yuli Shan, Chunjiao Dong. The Role of the License Plate Lottery Policy in the Adoption of Electric Vehicles: A Case Study of Beijing. _Energy Policy_. 2020, 139: 111328.
+8.	**Chengxiang Zhuge**, Min Yu, Chunyan Wang, Yilan Cui, Yi Liu. An Agent-based Spatiotemporal Integrated Approach to Simulating In-Home Water and Related Energy Use Behaviour: A Test Case of Beijing, China. _Science of The Total Environment_. 2020, 708: 135086. 
+9.	**Chengxiang Zhuge**, Chunfu Shao. Investigating the Factors Influencing the Uptake of Electric Vehicles in Beijing, China: Statistical and Spatial Perspectives. _Journal of Cleaner Production_. 2019, 213: 199-216. 
+10.	**Chengxiang Zhuge**, Binru Wei, Chunjiao Dong, Chunfu Shao, Yuli Shan. Exploring the Future Electric Vehicle Market and its Impacts with an Agent-based Spatial Integrated Framework: A Case Study of Beijing, China. _Journal of Cleaner Production_. 2019, 221: 710-737. 
+11.	**Chengxiang Zhuge**, Chunfu Shao. Agent-based Modelling of Office Market for a Land Use and Transport Model. _Transportmetrica B: Transport Dynamics_. 2019, 7(1): 1232-1257. 
+12.	**Chengxiang Zhuge**, Chunfu Shao. Agent-based Modelling of Locating Public Transport Facilities for Conventional and Electric Vehicles. _Networks and Spatial Economics_. 2018, 18(4): 875-908. 
+13.	**Chengxiang Zhuge**, Chunfu Shao, Shuling Wang, Ying Hu. An Agent- and GIS-based Virtual City Creator: A Case Study of Beijing, China. _Journal of Transport and Land Use_. 2018, 11(1): 1231-1256. 
+14.	**Chengxiang Zhuge**, Chunfu Shao, Jian Gao, Chunjiao Dong, Hui Zhang. Agent-Based Joint Model of Residential Location Choice and Real Estate Price for Land Use and Transport Model. _Computers, Environment and Urban Systems_, 2016, 57: 93-105. 
+
  
 
 

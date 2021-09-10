@@ -33,8 +33,8 @@ For those researchers (e.g., PhD students and post-docs) who want to join my tea
 
 
 ### Key Publications
-1.	Chengxiang Zhuge, Chunjiao Dong, Binru Wei, Chunfu Shao. Exploring the Role of Technology Innovations in the Diffusion of Electric Vehicle with an Agent-based Spatial Integrated Model. Resources, Conservation & Recycling. Accepted.
-2.	Mingdong Sun, Chunfu Shao, Chengxiang Zhuge*, Pinxi Wang, Xiong Yang, Shiqi Wang. Uncovering Travel and Charging Patterns of Private Electric Vehicles with Trajectory Data: Evidence and Policy Implications. Transportation. Accepted.
+1.	**Chengxiang Zhuge**, Chunjiao Dong, Binru Wei, Chunfu Shao. Exploring the Role of Technology Innovations in the Diffusion of Electric Vehicle with an Agent-based Spatial Integrated Model. Resources, Conservation & Recycling. Accepted.
+2.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Uncovering Travel and Charging Patterns of Private Electric Vehicles with Trajectory Data: Evidence and Policy Implications. Transportation. Accepted.
 3.	Xiong Yang, Chunfu Shao, Chengxiang Zhuge*, Mingdong Sun, Pinxi Wang, Shiqi Wang. Deploying Battery Swap Stations for Shared Electric Vehicles Using Trajectory Data. Transportation Research Part D: Transport and Environment. 2021, 97(2):102943. 
 4.	Chengxiang Zhuge, Chunyan Wang. Integrated Modelling of Autonomous Electric Vehicle Diffusion: From Review to Conceptual Design. Transportation Research Part D: Transport and Environment. 2021, 91: 102679.
 5.	Chengxiang Zhuge, Mike Bithell, Chunfu Shao, Xia Li, Jian Gao. An Improvement in MATSim Computing Time for Large-Scale Travel Behaviour Microsimulation. Transportation. 2021, 48:193–214.

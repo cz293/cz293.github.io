@@ -33,7 +33,7 @@ For those researchers (e.g., PhD students and post-docs) who want to join my tea
 
 
 ### Key Publications
-1.	Junbei Liu, **Chengxiang Zhuge***, Justin Hayse Chiwing G.Tang, Meng Meng, Jie Zhang. A Spatial Agent-based Joint Model of Electric Vehicle and Vehicle-to-Grid Adoption: A case of Beijing. _Applied Energy_, 2022, 310: 118581.
+1.	Junbei Liu, **Chengxiang Zhuge***, Justin Hayse Chiwing G.Tang, Meng Meng, Jie Zhang. A Spatial Agent-based Joint Model of Electric Vehicle and Vehicle-to-Grid Adoption: A Case of Beijing. _Applied Energy_, 2022, 310: 118581.
 2.	Pinxi Wang, Chengyi Guan, **Chengxiang Zhuge***, Mingdong Sun. Characteristics and Attitudes of Actual Electric Vehicle Adopters from Different Classes of Cities. _Research in Transportation Business & Management_, 2021, 100728.
 3.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Exploring the Potential of Rental Electric Vehicles for Vehicle-to-Grid: A Data-Driven Approach. _Resources, Conservation and Recycling_, 2021, 175: 105841.
 4.	**Chengxiang Zhuge**, Chunjiao Dong, Binru Wei, Chunfu Shao. Exploring the Role of Technology Innovations in the Diffusion of Electric Vehicle with an Agent-based Spatial Integrated Model. _Resources, Conservation & Recycling_. 2021, 174: 105806.

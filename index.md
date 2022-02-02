@@ -34,7 +34,7 @@ For those researchers (e.g., PhD students and post-docs) who want to join my tea
 
 ### Key Publications
 1.	Junbei Liu, **Chengxiang Zhuge***, Justin Hayse Chiwing G.Tang, Meng Meng, Jie Zhang. A spatial agent-based joint model of electric vehicle and vehicle-to-grid adoption: A case of Beijing. _Applied Energy_, 2022, 310: 118581.
-2.	Pinxi Wang, Chengyi Guan, *Chengxiang Zhuge***, Mingdong Sun. Characteristics and attitudes of actual electric vehicle adopters from different classes of cities. _Research in Transportation Business & Management_, 2021, 100728.
+2.	Pinxi Wang, Chengyi Guan, **Chengxiang Zhuge***, Mingdong Sun. Characteristics and attitudes of actual electric vehicle adopters from different classes of cities. _Research in Transportation Business & Management_, 2021, 100728.
 3.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Exploring the Potential of Rental Electric Vehicles for Vehicle-to-Grid: A Data-Driven Approach. _Resources, Conservation and Recycling_, 2021, 175: 105841.
 4.	**Chengxiang Zhuge**, Chunjiao Dong, Binru Wei, Chunfu Shao. Exploring the Role of Technology Innovations in the Diffusion of Electric Vehicle with an Agent-based Spatial Integrated Model. _Resources, Conservation & Recycling_. 2021, 174: 105806.
 5.	Mingdong Sun, Chunfu Shao, **Chengxiang Zhuge***, Pinxi Wang, Xiong Yang, Shiqi Wang. Uncovering Travel and Charging Patterns of Private Electric Vehicles with Trajectory Data: Evidence and Policy Implications. _Transportation_. 2021: 1-31.
@@ -49,6 +49,7 @@ For those researchers (e.g., PhD students and post-docs) who want to join my tea
 14.	**Chengxiang Zhuge**, Chunfu Shao. Agent-based Modelling of Locating Public Transport Facilities for Conventional and Electric Vehicles. _Networks and Spatial Economics_. 2018, 18(4): 875-908. 
 15.	**Chengxiang Zhuge**, Chunfu Shao, Shuling Wang, Ying Hu. An Agent- and GIS-based Virtual City Creator: A Case Study of Beijing, China. _Journal of Transport and Land Use_. 2018, 11(1): 1231-1256. 
 16.	**Chengxiang Zhuge**, Chunfu Shao, Jian Gao, Chunjiao Dong, Hui Zhang. Agent-Based Joint Model of Residential Location Choice and Real Estate Price for Land Use and Transport Model. _Computers, Environment and Urban Systems_, 2016, 57: 93-105. 
+
  
 
  
